@@ -38,6 +38,21 @@
         <h2>Contenido Embebido</h2>
         <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3982.553692890563!2d-76.53756436284924!3d3.4580690631431192!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8e30a66e85b0610f%3A0x3b0f305b09d5852a!2sCl.%2014%20Nte.%20%236N-49%2C%20Granada%2C%20Cali%2C%20Valle%20del%20Cauca!5e0!3m2!1ses!2sco!4v1731617506116!5m2!1ses!2sco" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
     </section>
+    <section>
+        <h2>Contacto</h2>
+        <form action="/enviar-formulario" method="post">
+            <label for="nombre">Nombre:</label>
+            <input type="text" id="nombre" name="nombre" required>
+            <br>
+            <label for="email">Correo electrónico:</label>
+            <input type="email" id="email" name="email" required>
+            <br>
+            <label for="mensaje">Mensaje:</label>
+            <textarea id="mensaje" name="mensaje"></textarea>
+            <br>
+            <button type="submit">Enviar</button>
+        </form>
+    </section>
     
 </body>
 </html>
