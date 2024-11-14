@@ -38,10 +38,10 @@ git checkout v4.0
 Esta versión contiene la estructura mínima de un documento HTML. Incluye la declaración < !DOCTYPE html>, la etiqueta < html>, y las secciones básicas < head> y < body>. Esta estructura es esencial para cualquier documento HTML.
 
 ### Tag v1.1 - Adición de etiquetas comunes
-En esta versión se agregaron elementos comunes como títulos  < h1>), párrafos  < p>), listas  < ul>, < ol>), y enlaces  < a>). Estas etiquetas son fundamentales para estructurar el contenido de una página web.
+En esta versión se agregaron elementos comunes como títulos  < h1>, párrafos  < p>, listas  < ul>, < ol>, y enlaces  < a>. Estas etiquetas son fundamentales para estructurar el contenido de una página web.
 
 ### Tag v2.0 - Incorporación de imágenes y videos
-Aquí se introducen elementos multimedia como imágenes  < img>) y videos  < video>). Estos elementos permiten enriquecer la experiencia del usuario con contenido visual y dinámico.
+Aquí se introducen elementos multimedia como imágenes  < img> y videos  < video>. Estos elementos permiten enriquecer la experiencia del usuario con contenido visual y dinámico.
 
 ### Tag v2.1 - Adición de contenido embebido
 Esta versión incluye el uso de < iframe> para insertar contenido externo, como mapas de Google o videos de YouTube. Esto permite integrar contenido de otras fuentes de forma sencilla.
