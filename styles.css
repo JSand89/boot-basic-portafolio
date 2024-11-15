@@ -17,3 +17,10 @@ body {
     font-size: 3rem;
     color: #2c3e50;
 }
+.caja {
+    width: 300px;
+    padding: 20px; /* Padding coloreado */
+    border: 5px solid #3498db; /* Borde coloreado */
+    margin: 10px; /* Margen que no es visible pero que se nota en la separación */
+    background-color: #ecf0f1; /* Contenido */
+}
